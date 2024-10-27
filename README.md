@@ -1,39 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
-<p align="center"><h1 align="center">USER-CREATE-SERVICE.GIT</h1></p>
-<p align="center">
-	<em>What a fascinating project!
-
-After analyzing the codebase details, I've come up with a few slogan ideas that capture the essence of user-create-service.git:
-
-1. **"Empowering Users, One Account at a Time."**
-2. **"Create, Connect, and Thrive: The Power is Yours."**
-3. **"Unlock Your Identity, Unlock Your Potential."**
-4. **"Where Users Come First, Every Time."**
-5. **"Transforming Data into Meaningful Connections."**
-
-However, my top pick for a catchy and memorable slogan is:
-
-**"Create Your Story, One User at a Time."**
-
-This slogan resonates with the project's focus on user creation, management, and authentication. It also hints at the idea that each user has their own unique story to tell, which aligns with the project's goal of empowering users.
-
-Feel free to modify or combine these ideas to best represent your project!</em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/rahulkpa/user-create-service.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/rahulkpa/user-create-service.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/rahulkpa/user-create-service.git?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/rahulkpa/user-create-service.git?style=default&color=0080ff" alt="repo-language-count">
-</p>
-<p align="center"><!-- default option, no dependency badges. -->
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
-<br>
-
 ##  Table of Contents
 
 - [ Overview](#-overview)
@@ -340,17 +304,3 @@ Run the test suite using the following command:
    </a>
 </p>
 </details>
-
----
-
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
